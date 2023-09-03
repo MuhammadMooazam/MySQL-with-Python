@@ -90,7 +90,7 @@ Choose your preferred authentication method and click **Next**. The first option
 
 Enter and confirm your MySQL Root Password, then click **Next**.
 
-![Set Root Password](https://user-images.githubusercontent.com/63813881/173280511-5bdf570a-96f4-483d-8516-969864cd8976.png)
+![Set Root Password](https://user-images.githubusercontent.com/63813881/173280511-5bdf705a-96f4-483d-8516-969864cd8976.png)
 
 ### **Step 11: Windows Service Configuration**
 
@@ -121,20 +121,20 @@ In the next screen, you'll find that the Product Configuration is completed. Sti
 If you wish to configure the Router, click **Next** ➔ **Finish** and then hit **Next**.
 ![image](https://user-images.githubusercontent.com/63813881/173280593-d5933d29-61a4-432b-aac4-44a51257abd6.png)
 
-### Step 16:
+### **Step 16: Connect to Server**
 In the next wizard, we will see the Connect to Server option. Here, we have to mention the root password, which we had set in the previous steps.
 ![image](https://user-images.githubusercontent.com/63813881/173280603-1563352a-c972-4230-a624-36f2259ccdb8.png)
 In this screen, it is also required to check about the connection is successful or not by clicking on the Check button. If the connection is successful, click on the Execute button. Now, the configuration is complete, click on Next.
 
-### Step 17:
+### **Step 17: Execute Applied Configurations**
 In the next wizard, select the applied configurations and click on the Execute button.
 ![image](https://user-images.githubusercontent.com/63813881/173280619-90407455-8fcd-4bb5-b2c7-ca341fc5f79c.png)
 
-### Step 18:
+### **Step 18: Finish Strong**
 After completing the above step, we will get the following screen. Here, click on the Finish button.
 ![image](https://user-images.githubusercontent.com/63813881/173280630-1760437d-11be-4704-a868-c1c4d9b7c96a.png)
 
-### Step 19:
+### **Step 19: MySQL Installation Complete**
 Now, the MySQL installation is complete. Click on the Finish button.
 ![image](https://user-images.githubusercontent.com/63813881/173280646-5f4cf713-ab86-40a8-a4b5-658bfa5462b8.png)
 
