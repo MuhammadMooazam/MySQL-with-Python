@@ -112,7 +112,7 @@ Once the configuration is complete, you'll see the following screen. Click **Fin
 
 ### **Step 14: Product Configuration**
 
-In the next screen, you'll find that the Product Configuration is completed. Stick with the default settings and click **Next** ➔ **Finish** to finalize the MySQL package installation.
+In the next screen, you'll find that the Product Configuration is complete. Stick with the default settings and click **Next** ➔ **Finish** to finalize the MySQL package installation.
 
 ![Product Configuration](https://user-images.githubusercontent.com/63813881/173280581-7bdbe189-77ce-4ebc-bb78-c44d545d2d2e.png)
 
@@ -122,9 +122,8 @@ If you wish to configure the Router, click **Next** ➔ **Finish** and then hit 
 ![image](https://user-images.githubusercontent.com/63813881/173280593-d5933d29-61a4-432b-aac4-44a51257abd6.png)
 
 ### **Step 16: Connect to Server**
-In the next wizard, we will see the Connect to Server option. Here, we have to mention the root password, which we had set in the previous steps.
+In the next wizard, we will see the Connect to Server option. Here, we have to mention the root password, which we set in the previous steps. In this screen, it is also required to check whether the connection is successful or not by clicking on the Check button. If the connection is successful, click on the Execute button. Now, that the configuration is complete, click on Next.
 ![image](https://user-images.githubusercontent.com/63813881/173280603-1563352a-c972-4230-a624-36f2259ccdb8.png)
-In this screen, it is also required to check about the connection is successful or not by clicking on the Check button. If the connection is successful, click on the Execute button. Now, the configuration is complete, click on Next.
 
 ### **Step 17: Execute Applied Configurations**
 In the next wizard, select the applied configurations and click on the Execute button.
@@ -143,7 +142,7 @@ Once MySQL has been successfully installed, the base tables have been initialize
 
 Open your MySQL Command Line Client; it should have appeared with a mysql> prompt. If you have set any password, write your password here. Now, you are connected to the MySQL server, and you can execute all the SQL command at mysql> prompt as follows.
 
-**For example:** Check the already created databases with show databases command:
+**For example:** Check the already created databases with the show databases command:
 ![image](https://user-images.githubusercontent.com/63813881/173280683-4ac11109-c2fa-4087-a6a5-8782b959f179.png)
 
 ## Install Library in Python
